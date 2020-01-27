@@ -1,6 +1,9 @@
 
 # Hack
 
+## Hack fonts, as defined by me, have only been modified with round brackets. (我自己定义的Hack字体，只修改了圆括弧)
+
+
 [![GitHub release](https://img.shields.io/github/release/source-foundry/hack.svg?style=flat)](https://github.com/source-foundry/Hack/releases/latest)
 [![Build Status](https://semaphoreci.com/api/v1/sourcefoundry/hack/branches/master/shields_badge.svg)](https://semaphoreci.com/sourcefoundry/hack)
 [![Contributors](https://img.shields.io/badge/contributors-129-orange.svg?style=flat)](https://github.com/source-foundry/Hack/blob/master/docs/CONTRIBUTORS.md)
